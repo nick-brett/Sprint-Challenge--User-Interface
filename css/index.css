@@ -150,8 +150,9 @@ footer nav a {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 40px;
+    margin: 30px;
     padding: 40px;
+    padding-bottom: 13px;
 
 }
 .navbar a{
