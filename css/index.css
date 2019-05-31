@@ -144,3 +144,29 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* My CSS
+*/
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 40px;
+    padding: 40px;
+
+}
+.navbar a{
+    color: black;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.navbar a:link{
+    text-decoration: none;
+}
+.navbar a:hover{
+    color: grey;
+    text-decoration: underline;
+}
+.bigpicture{
+    text-align: center;
+    padding-bottom: 25px;
+}
