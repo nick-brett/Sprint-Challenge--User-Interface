@@ -153,6 +153,7 @@ footer nav a {
     margin: 30px;
     padding: 40px;
     padding-bottom: 13px;
+    align-items: center;
 
 }
 .navbar a{
@@ -224,4 +225,9 @@ footer nav a {
 }
 .about-page img{
     padding-bottom: 10px;
+}
+.about-page .letswork {
+
+    width: 100%;
+    border: none;
 }
